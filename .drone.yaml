@@ -1,8 +1,6 @@
 pipeline:
   build:
-    image: maven:3-jdk-8
+    image: maven:3.5.4-jdk-8-alpine
     pull: true
     commands:
-      - mvn clean
-      - mvn install
-      - mvn deploy
+      - mvn --version
