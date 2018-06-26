@@ -33,4 +33,4 @@
 如下圖，每30分鐘執行一次備份。  
 ![Image of config.properties](https://i.imgur.com/tOJdeXe.png) 
 ### 方法二： 執行專案程式碼 ###  
-直接下載整個專案，執行Main.java即可。
+直接下載整個專案，執行Main.java即可。 
